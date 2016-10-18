@@ -37,6 +37,7 @@ Hardware Setup:
 3. Connect power to PI
 4. Wire motor hat to motors
 5. Wire motor power to the motor hat
+6. Mount power/battery packs to the cart using self adhesive velcro strips, I used this one, but there are cheaper options out there https://www.amazon.com/gp/product/B00006RSWT/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
 
 Software Installation and Configuration
 
