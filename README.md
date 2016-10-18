@@ -10,7 +10,7 @@ Dependencies:
 Hardware:
 * Robot Cart Chassis Kit
       https://www.amazon.com/INSMA-Chassis-Encoder-Battery-Arduino/dp/B01BXPETQG/ref=sr_1_2?ie=UTF8&qid=1475182454&sr=8-2&keywords=robot+car+chassis
-* Raspberry Pi - Model A+ (chsen for its size and low power consumption, otherwise it can be any Pi)
+* Raspberry Pi - Model A+ (chosen for its size and low power consumption, otherwise it can be any Pi)
       https://www.raspberrypi.org/products/model-a-plus/
 * USB Wifi Dongle (can be any dongle which works with Linux or Pi)
       Selected Panda 300Mbps Wireless N USB Adapter because it lists Linux compatibility and supports both infrastructure and ad-hoc modes. I intend to use Infrastructure mode to use PI as hotspot and connect to it rather than accessing it through existing hotspot inside the house. https://www.amazon.com/Panda-300Mbps-Wireless-USB-Adapter/dp/B00EQT0YK2/ref=sr_1_17?s=pc&ie=UTF8&qid=1475183544&sr=1-17&keywords=usb+wifi+dongle
