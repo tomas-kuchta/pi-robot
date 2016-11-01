@@ -42,6 +42,7 @@ Hardware Setup:
 Software Installation and Configuration
 
 Description:
+
 The robot is controlled by connecting to Wi-Fi access point presented by the robot, logging into the robot by ssh from a laptop or a PC (can use putty from Windows PC) and executing the ./run start up script.
 
 Use arrows to control the speed and direction; Space bar stops the robot immediately.
