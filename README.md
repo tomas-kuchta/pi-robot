@@ -41,5 +41,11 @@ Hardware Setup:
 
 Software Installation and Configuration
 
-Description
+Description:
+The robot is controlled by connecting to Wi-Fi access point presented by the robot, logging into the robot by ssh from a laptop or a PC (can use putty from Windows PC) and executing the ./run start up script.
 
+Use arrows to control the speed and direction; Space bar stops the robot immediately.
+
+Acceleration and direction changes are by gradual motor ramp to configurable speed step. The motor acceleration/deceleration ramp speed is also configurable. See "# Constants" code section in motor_control.py for acceleration and turning steps and their ramp rate. Max motor PWM speed value is 255, and acceleration is in in number of PWM speed steps per second.
+
+Robot control key bindings can be chosen (or modified) from preconfigured patters (vi/minecraft or arrows) by useControlKeys variable in "# Control keys" section.
